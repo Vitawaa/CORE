@@ -1,2 +1,2 @@
 # CORE
-CORE V4
+CORE V5
