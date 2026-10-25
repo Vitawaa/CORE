@@ -1,3 +1,3 @@
 # CORE
 
-CORE V6
+CORE V7
